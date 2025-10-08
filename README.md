@@ -1,4 +1,4 @@
-# Mini Projects
+# Mini Projects!
 
 Welcome to my collection of Python-based projects. This repository showcases various scripts and utilities I've developed to solve different problems and demonstrate my coding skills.
 
